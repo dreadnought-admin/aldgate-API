@@ -16,8 +16,8 @@ cleo==2.0.1
 click==8.1.7
 clikit==0.5.1
 cm-rgb==0.3.6
-command-not-found==0.3
-commandnotfound==0.5.0
+command-not-found
+commandnotfound
 crashtest==0.4.1
 cryptography==41.0.3
 dbus-python==1.2.18
